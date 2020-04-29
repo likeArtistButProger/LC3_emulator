@@ -12,7 +12,7 @@ cl vm.c
 or
 
 GCC :
-gcc lc3.c -o lc3
+gcc vm.c -o vm
 
 Now you can run your program via created exe in Command Prompt (For windows):
 
